@@ -1,6 +1,6 @@
 {
-  "name": "http-proxy",
-  "version": "1.18.1",
+  "name": "@tiku/http-proxy",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/http-party/node-http-proxy.git"
